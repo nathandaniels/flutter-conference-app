@@ -9,35 +9,6 @@
     "twitter": "https://twitter.com/androidTO",
     "website": "http://androidto.com",
     "contact_email": "mailto:example@email.com",
-    "link_types": [
-      {
-        "id": "sponsor",
-        "name": "Sponsors"
-      },
-      {
-        "id": "supporter",
-        "name": "Supporters"
-      }
-    ],
-    "links": [
-      {
-        "name": "Android Pub Night",
-        "image_path": "https://secure.meetupstatic.com/photos/event/3/1/1/5/600_475692565.jpeg",
-        "website": "http://www.meetup.com/Android-Pub-Night/",
-        "link_type_id": "sponsor"
-      },
-      {
-        "name": "Kotlin Toronto",
-        "image_path": "https://secure.meetupstatic.com/photos/event/a/c/d/d/highres_461324253.jpeg",
-        "website": "https://www.meetup.com/Kotlin-Toronto/",
-        "link_type_id": "supporter"
-      },
-      {
-        "name": "GDG Toronto Android",
-        "image_path": "https://secure.meetupstatic.com/photos/event/a/6/9/0/600_448602640.jpeg",
-        "website": "https://www.meetup.com/ToAndroidDev/",
-        "link_type_id": "supporter"
-      }
     ]
   },
   "speakers": [
